@@ -23,7 +23,7 @@ https://www.aliexpress.com/item/1005008337159249.html
 
 ## Soldering
 
-![Three buttons](Three_buttons.jpeg)
+![Three buttons](three_buttons.jpeg)
 
 ## Assembly
 
