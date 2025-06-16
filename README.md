@@ -2,6 +2,8 @@
 
 Project showcases HID attacks using Pro Micro board.
 
+![Three buttons image](tbuttons.jpeg)
+
 ## BOM
 
 1. Pro Micro Board with USB Type-C:
